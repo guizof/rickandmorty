@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px){
+
+  .character-list{
+    display: flex;
+    justify-content: center;
+  }
+
+  .character-search{
+    display: flex;
+    justify-content: center;
+  }
+}
